@@ -1,7 +1,7 @@
 .idea
-# .DS_Store
-# node_modules
-# package-lock.json
+.DS_Store
+node_modules
+package-lock.json
 
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
